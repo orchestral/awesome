@@ -5,12 +5,19 @@
 ## Table of Contents
 
 * [Essentials](#essentials)
+* [Showcases](#showcases)
 * [Micellaneous](#miscellaneous)
 
 ## Essentials
 
 * [Documentation](http://orchestraplatform.com/docs/latest)
 * [Cookbook](http://cookbook.orchestraplatform.com)
+
+## Showcases
+
+List of application/website built with Orchestra Platform:
+
+* [KatSana Platform](https://my.katsana.com)
 
 ## Micellaneous
 
