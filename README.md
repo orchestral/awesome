@@ -5,6 +5,8 @@
 ## Table of Contents
 
 * [Essentials](#essentials)
+* [Applications](#applications)
+* [Extensions](#extensions)
 * [Showcases](#showcases)
 * [Micellaneous](#miscellaneous)
 
@@ -12,6 +14,16 @@
 
 * [Documentation](http://orchestraplatform.com/docs/latest)
 * [Cookbook](http://cookbook.orchestraplatform.com)
+
+## Applications
+
+* [IT Hub](https://github.com/stevebauman/ithub) - An IT Hub for managing issues and other related information.
+* [Quickly Share.it](https://github.com/stevebauman/quickly-share-it) - A web app for sharing files quickly.
+
+## Extensions
+
+* [Quemon](https://github.com/laravie/quemon) - Failed Queue Monitoring Extension.
+* [Story CMS](https://github.com/orchestral/story) - An Blogging CMS Extension for Orchestra Platform.
 
 ## Showcases
 
