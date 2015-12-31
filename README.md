@@ -7,6 +7,7 @@
 * [Essentials](#essentials)
 * [Applications](#applications)
 * [Extensions](#extensions)
+* [Themes](#themes)
 * [Showcases](#showcases)
 * [Micellaneous](#miscellaneous)
 
@@ -25,11 +26,17 @@
 * [Quemon](https://github.com/laravie/quemon) - Failed Queue Monitoring Extension.
 * [Story CMS](https://github.com/orchestral/story) - An Blogging CMS Extension for Orchestra Platform.
 
+## Themes
+
+* [AdminLTE](https://github.com/stackie/adminlte-theme) - AdminLTE theme for Orchestra Platform.
+* [Medium](https://github.com/stackie/medium-theme) - Medium-esque for Story CMS Extension.
+
 ## Showcases
 
 List of application/website built with Orchestra Platform:
 
 * [KatSana Platform](https://my.katsana.com)
+
 
 ## Micellaneous
 
